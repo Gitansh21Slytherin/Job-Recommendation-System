@@ -14,5 +14,6 @@ In this project, we will investigate various techniques for optimising the job r
 ![image](https://user-images.githubusercontent.com/69135317/200873801-4ea2417e-51b0-465b-8ff2-b5ec74190bc0.png)
 
 Embedded system 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/69135317/200875337-0754f938-8780-49f8-8b87-360ef3a73862.png)
+
 
